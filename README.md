@@ -16,5 +16,5 @@ This project is a code reproduction of Layout Hotspot Detection with Feature Ten
 
 DCT: https://github.com/Sosekie/Open_Layout-Hotspot-Detection-with-Feature-Tensor-Generation-and-Deep-Biased-Learning/blob/main/dataset/dct_patches/1_dct.jpg
 
-result.jpg
+result.jpg: https://github.com/Sosekie/Open_Layout-Hotspot-Detection-with-Feature-Tensor-Generation-and-Deep-Biased-Learning/blob/main/result.jpg
 
